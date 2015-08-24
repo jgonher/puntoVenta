@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codigo: MyString
+  nombre: MyString
+  vCompra: 1
+  vVenta: 1
+  categoria: MyString
+
+two:
+  codigo: MyString
+  nombre: MyString
+  vCompra: 1
+  vVenta: 1
+  categoria: MyString
